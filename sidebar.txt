@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ldi:home|Door43 (ldi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ldi|d43-ldi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ldi/archive/master.zip|d43-ldi.zip]]
+
+**Recent Changes**
+{{changes>ns = ldi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ldi|Ethnologue data]]
+
